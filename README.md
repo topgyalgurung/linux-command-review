@@ -3,6 +3,10 @@
 
 # [Operating Systems and You: Becoming a Power User by Google](https://www.coursera.org/learn/os-power-user)
 
+#### Note:
+- Windows user watch Video: Window
+- macOs and linux user watch Video: Linux
+
 ### Supplement Reading Resources:
 - [bash](https://www.gnu.org/software/bash/manual/bash.html)
 - [vim](https://vim.sourceforge.io/docs.php)
