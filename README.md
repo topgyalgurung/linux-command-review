@@ -3,6 +3,13 @@
 
 # [Operating Systems and You: Becoming a Power User by Google](https://www.coursera.org/learn/os-power-user)
 
+### Resources:
+- [bash](https://www.gnu.org/software/bash/manual/bash.html)
+- [vim](https://vim.sourceforge.io/docs.php)
+- [nano](https://www.nano-editor.org/)
+- [emacs](https://www.gnu.org/software/emacs/tour/)
+- 
+
 ## Week 1: 
 
   #### a. Basic commands 
