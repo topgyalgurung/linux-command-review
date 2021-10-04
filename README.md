@@ -3,7 +3,7 @@
 
 # [Operating Systems and You: Becoming a Power User by Google](https://www.coursera.org/learn/os-power-user)
 
-### Resources:
+### Supplement Reading Resources:
 - [bash](https://www.gnu.org/software/bash/manual/bash.html)
 - [vim](https://vim.sourceforge.io/docs.php)
 - [nano](https://www.nano-editor.org/)
